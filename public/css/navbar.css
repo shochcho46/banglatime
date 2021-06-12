@@ -1,0 +1,53 @@
+.offcanvas-header {
+    display: none;
+}
+
+.navbar {
+    z-index: 999;
+    border-bottom: 1px solid rgb(211, 211, 211);
+}
+
+@media (max-width: 992px) {
+    .offcanvas-header {
+        display: block;
+    }
+    .navbar-collapse {
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        right: 100%;
+        width: 70%;
+        padding-right: 1rem;
+        padding-left: 1rem;
+        overflow-y: auto;
+        visibility: hidden;
+        background-color: ghostwhite;
+        transition: visibility .2s ease-in-out, -webkit-transform .2s ease-in-out;
+        border: 1px solid #E8E8E8;
+    }
+    .navbar-collapse.show {
+        visibility: visible;
+        transform: translateX(100%);
+    }
+}
+
+.custom {
+    color: #333;
+    padding: 15px 10px;
+}
+
+.custom:hover {
+    color: #333;
+    /* background-color: rgb(22, 22, 22); */
+    border-bottom: 3px solid #212b35;
+    padding: 15px 10px;
+}
+
+.img-circle {
+    border-radius: 50%;
+    border: 1px solid gainsboro;
+}
+
+.overlay {
+    display: block;
+}

@@ -1,0 +1,269 @@
+.googlebanner {
+    height: 120px;
+    border: 1px solid #c2c2c2;
+}
+
+.boxborder {
+    border: 1px solid whitesmoke;
+}
+
+.linkUnLiRemove {
+    text-decoration: none !important;
+}
+
+.linkUnLiRemove:hover {
+    text-decoration: none !important;
+}
+
+.linkUnLiRemove a {
+    text-decoration: none !important;
+}
+
+.newsheadin {
+    color: #333333;
+}
+
+.newsheadin:hover {
+    color: rgb(81, 81, 247);
+}
+
+.singleNewsShowBorder {
+    border: 1px solid #c2c2c2;
+}
+
+.squre1addbox {
+    height: 300px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #c2c2c2;
+}
+
+.squre2addbox {
+    height: 300px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #c2c2c2;
+}
+
+.squre3addbox {
+    height: 310px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #c2c2c2;
+}
+
+.headbanner {
+    height: 120px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+.headnewsBox {
+    height: 400px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #c2c2c2;
+}
+
+.headimageBox {
+    height: 295px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+.headigBox {
+    height: 95px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+.verticaleBox {
+    /* height: 100px; */
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #c2c2c2;
+}
+
+.verticleimageBox {
+    height: 98px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+}
+
+.verticleheadigBox {
+    height: 98px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+}
+
+.readNewz {
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #c2c2c2;
+}
+
+.latestNewz {
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #c2c2c2;
+}
+
+.newzCard {
+    width: 100%;
+    height: 360px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #c2c2c2;
+    overflow: hidden;
+}
+
+.newzCardImage {
+    width: 100%;
+    height: 190px;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+}
+
+.newzCardContent {
+    width: 100%;
+    height: 140px;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+}
+
+.newzCardmidd {
+    width: 100%;
+    height: 250px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #c2c2c2;
+    overflow: hidden;
+}
+
+.newzCardImagemidd {
+    width: 100%;
+    height: 130px;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+}
+
+.newzCardContentmidd {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+}
+
+.verticalebigbox {
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #c2c2c2;
+    overflow: hidden;
+}
+
+.verticalebigboxImage {
+    width: 100%;
+    /* height: 180px; */
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+}
+
+.verticalebigboxContent {
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+}
+
+.menuheadin {
+    border-left: 3px solid rgb(206, 6, 189);
+    color: #333333;
+}
+
+.fontsize {
+    font-size: 3.1vmin;
+}
+
+.googleAddRecta {
+    height: 310px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #c2c2c2;
+    overflow: hidden;
+}
+
+.googleAddRectaBig {
+    height: 610px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #c2c2c2;
+    overflow: hidden;
+}
+
+.newzSharebox {
+    height: 310px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #c2c2c2;
+    overflow: hidden;
+}
+
+.imageBox {
+    height: 290px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #c2c2c2;
+    overflow: hidden;
+}
+
+.imageBoxImage {
+    max-height: 250px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    /* border: 1px solid #c2c2c2; */
+    overflow: hidden;
+}
+
+.imageBoxbig {
+    /* height: 350px; */
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #c2c2c2;
+    overflow: hidden;
+}
+
+.imageBoxImagebig {
+    max-height: 310px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    /* border: 1px solid #c2c2c2; */
+    overflow: hidden;
+}
+
+.imageBoxContentBig {
+    /* height: 30px; */
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    /* border: 1px solid #c2c2c2; */
+    overflow: hidden;
+}
+
+.imageBoxContent {
+    height: 30px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    /* border: 1px solid #c2c2c2; */
+    overflow: hidden;
+}
+
+.footer {
+    background-color: #282828;
+    color: #c2c2c2;
+}
+
+.showNewsImage {
+    height: 350px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    /* border: 1px solid #c2c2c2; */
+    overflow: hidden;
+}
